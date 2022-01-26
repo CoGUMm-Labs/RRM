@@ -1,2 +1,2 @@
 # RRM
-Repo containing Medias to make FiveM NUIs.
+Repo containing Medias to make FiveM and RedM NUIs.
